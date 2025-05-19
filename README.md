@@ -1,8 +1,3 @@
-Berikut formatnya sudah **rapi dan siap untuk disalin langsung** (misalnya ke `README.md` GitHub):
-
----
-
-````markdown
 # 🧠 Sentiment Analysis using SVM
 
 ## 📌 Deskripsi Proyek
@@ -77,7 +72,5 @@ Proyek ini dapat dikembangkan lebih lanjut dengan:
 * Menerapkan representasi teks lanjutan seperti **Word Embeddings** (*Word2Vec*, *GloVe*, dll)
 
 > SVM merupakan algoritma yang andal untuk klasifikasi teks sederhana dan tetap relevan untuk tugas-tugas NLP dasar.
-
-```
 
 
