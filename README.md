@@ -80,7 +80,4 @@ Proyek ini dapat dikembangkan lebih lanjut dengan:
 
 ```
 
----
 
-Silakan salin semuanya dan tempel langsung ke file `README.md`. Kalau mau versi bahasa Inggris atau markdown-nya dijadikan presentasi, tinggal bilang saja!
-```
