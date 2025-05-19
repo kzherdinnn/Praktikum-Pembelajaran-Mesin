@@ -7,9 +7,9 @@ Proyek ini merupakan implementasi sederhana dari *Sentiment Analysis* (analisis 
 Proyek ini mengacu pada repository GitHub berikut:  
 🔗 [Referensi GitHub - Jatin Warade](https://github.com/jatinwarade/Sentiment-analysis-using-SVM)
 
----
 
-## 🗂️ Struktur File
+
+ 🗂️ Struktur File
 
 ```bash
 SENTIMENT-ANALYSIS-USING-SVM/
